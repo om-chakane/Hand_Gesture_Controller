@@ -1,4 +1,4 @@
-# EDI_Gesture_based_mouse
+# EDI_Gesture_based_PPT
 An application based on Landmark Detection used for giving presentations with the help of Hand Gestures i.e without the use of any mouse or touch-pad.
 
 ## Introduction
@@ -6,17 +6,20 @@ This project by TY-47 is intended to give presentations in air - without touchin
 
 ## Features
 Currently following functionalities have been implemented:
-<details>
-<summary><b>Next Slide</summary>
-![My Image](/src/5.png)
-</details>
 
-  
-  - **Next Slide**
-- **Previous Slide**
-- **Pointer**
-- **Draw**
-- **Erase**
+## **Next Slide**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="src/rt.png" width="150" height="200" align="center">
+
+## **Previous Slide**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="src/lt.png" width="150" height="200" align="center">
+
+## **Pointer**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="src/ptr.png" width="150" height="180" align="center">
+
+## **Draw**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="src/1.png" width="150" height="200" align="center">
+
+## **Erase**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="src/3.png" width="150" height="200" align="center">
+
+## **Clear Screen**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="src/5.png" width="150" height="200" align="center">
+
+
 
 Also, PPT in form of images is needed for it to work.
 
