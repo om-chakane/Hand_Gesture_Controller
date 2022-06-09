@@ -8,8 +8,7 @@ This project by TY-47 is intended to give presentations in air - without touchin
 Currently following functionalities have been implemented:
 <details>
 <summary><b>Next Slide</summary>
-<br>
-<img src="C:/Users/Om Madhukar Chakane/Downloads/5.png" alt="Alt text" title="Optional title">
+![My Image](/src/5.png)
 </details>
 
   
