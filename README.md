@@ -1,4 +1,4 @@
-# EDI_Gesture_based_PPT
+# Hand Gesture Controller
 An application based on Landmark Detection used for giving presentations with the help of Hand Gestures i.e without the use of any mouse or touch-pad.
 
 ## Introduction
